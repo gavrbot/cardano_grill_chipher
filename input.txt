@@ -1,0 +1,4 @@
+This is test text for demonstrating encoding with Сardano matrix.
+Main idea is separating text to 64 elements blocks and encode each one of them with Cardano matrix.
+If there is no 64 elements in block, program will add additional randoms symbols,
+ which you can see in decode.txt file.
